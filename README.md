@@ -1,4 +1,4 @@
-# Digital Plus — Borlèt Admin Demo
+# 4pc — Borlèt Admin Demo
 
 Prototype frontend inspiré de l'organisation visible dans la capture fournie.
 
